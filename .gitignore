@@ -36,3 +36,9 @@ cypress/cypress/fixtures/example.json
 cypress/cypress/support/commands.js
 cypress/cypress/support/e2e.js
 package-lock.json
+.idea/end-to-end-javascript-testing-with-cypressio-4253121.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/inspectionProfiles/profiles_settings.xml
